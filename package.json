@@ -1,0 +1,30 @@
+{
+  "name": "cooyy",
+  "version": "2.5.0",
+  "description": "Scoop.",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "ws": "^7.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koopdayetat/testnode.git"
+  },
+  "keywords": [
+    "noder"
+  ],
+  "author": "Scooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ts"
+  },
+  "homepage": "https://github.com/te"
+}
